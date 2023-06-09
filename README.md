@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Samsul
 #### Full-stack Web Developer
-![Full-stack Web Developer](https://media.licdn.com/dms/image/D5616AQE6AYG-fzpFaw/profile-displaybackgroundimage-shrink_350_1400/0/1675614884668?e=1689811200&v=beta&t=nDoe6Xr9mru2xTiVYVWgqSZYyMW7OS8tjnuSg5f99no)
 
 I have experience in React, Django, JavaScript, Python, and TypeScript. I thrive on crafting engaging user experiences and building scalable applications. With a knack for problem-solving, I have honed my skills in data structures and algorithms and solved nearly 300 problems on LeetCode. I am also actively contributing to  different open source projects in github. I believe in the power of collaboration and community-driven development. Let's collaborate and build something incredible together!
 
